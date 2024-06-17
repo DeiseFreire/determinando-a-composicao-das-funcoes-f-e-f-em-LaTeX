@@ -1,0 +1,31 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amsmath}
+\begin{document}
+\title{Composição de Funçôes: $g \circ f\left( x \right)$}
+\author{Deise Freire}
+\date{\today}
+\maketitle
+\begin{abstract}
+    Este artigo determina a composição de funções $g \circ f\left( x \right)$, onde $f\left( x \right) = 3x - 1$ e $g\left( x \right) = x^{2} + x - 1$. O processo envolve a substituição do valor de $f\left( x \right)$ na função $g\left( x \right)$.
+\end{abstract}
+\section{Introdução}
+Neste artigo, vamo calcular a composição de duas funções, $f\left( x \right)$ e $g\left( x \right)$. A composição de funções, denotada por $g \circ f\left( x \right)$, é obtida pela aplicação da função $g$ ao resultado da função $f\left( x \right)$.
+\section{Composição de Funções}
+Sejam as funções $f\left( x \right) = 3x - 1$ e $g\left( x \right) = x^{2} + x - 1$. Determinamos $g \circ f\left( x \right)$
+\begin{align*}
+    g \circ f\left( x \right) &= g\left( f\left( x \right) \right) \\
+    &= g\left( 3x - 1 \right) \\
+    &= \left( 3x - 1 \right)^{2} + \left( 3x - 1 \right) - 1 \\
+    &= \left[ \left( 3x - 1 \right) \cdot \left( 3x - 1 \right) \right] + \left( 3x - 1 \right) - 1 \\
+    &= \left[ 9x^{2} - 3x - 3x + 1 \right] + 3x - 1 - 1 \\
+    &= \left[ 9x^{2} - 6x + 1 \right] + 3x - 2 \\
+    &= 9x^{2} - 6x + 1 + 3x - 2 \\
+    &= 9x^{2} - 6x + 3x + 1 - 2 \\
+    &= 9x^{2} - 3x - 1 \\
+    &= \boxed{9x^{2} - 3x - 1} 
+\end{align*}
+\section{Conclusão}
+Concluímos que a composição de funções $g \circ f\left( x \right)$ é igual a $9x^{2} - 3x - 1$.
+\end{document}
