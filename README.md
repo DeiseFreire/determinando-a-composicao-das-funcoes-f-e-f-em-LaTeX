@@ -14,3 +14,7 @@
 ## 💕 **Compiling:**
 
 Save this code as a `.tex` file (e.g., `composition.tex`) and use a LaTeX compiler like pdflatex to create a PDF document.
+
+## 💕 **Image**
+
+![imaage](https://github.com/DeiseFreire/tex215916062024/blob/main/image.png)
