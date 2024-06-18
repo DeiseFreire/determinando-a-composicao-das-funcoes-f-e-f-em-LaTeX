@@ -1,27 +1,30 @@
 \documentclass[12pt,a4paper]{article}
+
 \usepackage[utf8]{inputenc}
 \usepackage[brazil]{babel}
 \usepackage{amsmath}
+
 \begin{document}
-\title{Composição de Funçôes: $g \circ f\left( x \right)$}
+\title{Composição de Funções: $g \circ f\left( x \right)$}
 \author{Deise Freire}
 \date{\today}
 \maketitle
 \begin{abstract}
-    Este artigo determina a composição de funções $f \circ f\left( x \right)$, onde $f\left( x \right) = 3x - 1$ . O processo envolve a substituição do valor de $f\left(x \right)$ dentro da função $f\left( x \right)$.
+    Este artigo determina a composição de funções $f \circ f\left( \right)$, onde $f\left( x \right) = 3x - 1$. O processo envolve a substituição do valor $f\left( x \right)$ dentro da função $f\left( x \right)$.
 \end{abstract}
 \section{Introdução}
-Neste artigo, vamos calcular a composição da função $f\left( x \right)$ dentro da função $f\left( x \right)$. A composição de funções, denotada por $f \circ f\left( x \right)$, é obtida pela aplicação da função $f$ ao resultado da função $f\left( x \right)$.
-\section{Composição de Funções}
-Sejam as funções $f\left( x \right) = 3x - 1$ e $g\left( x \right) = x^{2} + x - 1$. Vamos determinar $f \circ f\left( x \right)$
-\begin{align*}
-    f \circ f\left( x \right) 
-    &= f\left( f\left( x \right) \right) \\
-    &= f\left( 3x - 1 \right) \\
-    &= 3 \cdot \left( 3x - 1 \right) - 1 \\
-    &= 9x - 3 - 1 = 9x - 4 \\
-    &= \boxed{9x^{2} - 3x - 1} 
-\end{align*}
+    Neste artigo, vamos calcular a composição da função $f\left( x \right)$ de $f\left( x \right)$. A composição de funções, denotada por $f\circ f\left( x \right)$, é obtida pela aplicação da função $f$ ao resultado da função $f\left( x \right)$.
+    \section{Composição de Funções}
+    Sejam as funções $f\left( x \right) = 3x - 1$ e $g\left( x \right) = x^{2} + x - 1$. Vamos determinar $f \circ f\left( x \right)$:
+    \begin{align*}
+        f \circ f\left( x \right)
+        &= f\left( f\left( x \right) \right) \\
+        &= f\left( 3x - 1 \right) \\
+        &= 3 \cdot \left( 3x - 1 \right) - 1 \\
+        &= 9x - 3 - 1 \\
+        &= 9x - 4 \\
+        &= \boxed{9x - 4}
+    \end{align*}
 \section{Conclusão}
-Concluímos que a composição de funções $f \circ f\left( x \right)$ é igual a $9x^{2} - 3x - 1$.
+Concluímos que a composição de funções $f \circ f\left( x \right)$ é igual a $9x - 4$.
 \end{document}
