@@ -1,4 +1,4 @@
-## 💕 **Explanation:**
+## 💕 **Explanation**
 
 - **`\documentclass[12pt]{article}`:** Sets the document class to `article` with a font size of 12pt.
 - **`\usepackage[utf8]{inputenc}`:** Enables UTF-8 encoding for characters beyond the basic Latin alphabet (optional, adjust as needed).
@@ -11,7 +11,7 @@
 - **Comments:** Includes comments (in gray) to explain substitutions within the calculations (optional).
 - **Conclusion:** Summarizes the key findings and emphasizes the importance of function composition.
 
-## 💕 **Compiling:**
+## 💕 **Compiling**
 
 Save this code as a `.tex` file (e.g., `composition.tex`) and use a LaTeX compiler like pdflatex to create a PDF document.
 
