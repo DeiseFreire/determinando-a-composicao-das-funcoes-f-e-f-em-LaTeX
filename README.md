@@ -1,4 +1,4 @@
-![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) <a href="https://www.youtube.com/watch?v=568oWDWAWJ4" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> ![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) <a href="https://www.youtube.com/watch?v=568oWDWAWJ4" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 
 ## 💕 **Explanation**
 
@@ -20,3 +20,7 @@ Save this code as a `.tex` file (e.g., `composition.tex`) and use a LaTeX compil
 ## 💕 **Image**
 
 ![imaage](https://github.com/DeiseFreire/tex215916062024/blob/main/image.png)
+
+## 💕 **Badge**
+
+![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
