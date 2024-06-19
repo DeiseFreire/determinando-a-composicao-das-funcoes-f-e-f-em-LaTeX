@@ -21,6 +21,6 @@ Save this code as a `.tex` file (e.g., `composition.tex`) and use a LaTeX compil
 
 ![imaage](https://github.com/DeiseFreire/tex215916062024/blob/main/image.png)
 
-## 💕 **Badge**
 
-![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+
+![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
