@@ -1,3 +1,5 @@
+![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+
 ## 💕 **Explanation**
 
 - **`\documentclass[12pt]{article}`:** Sets the document class to `article` with a font size of 12pt.
