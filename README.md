@@ -1,5 +1,10 @@
 ![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) <a href="https://www.youtube.com/watch?v=zjsUvLKL8rU&list=PLZpH1iUcDo5jySyW1zOz5PV4Yg84VV-fg&index=11" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+> [!NOTE]
+> ## **Determinando a composição das funções f e f em LaTeX**
+> This LaTeX document demonstrates the process of finding the composition of two functions, f(x) and g(x), using LaTeX syntax.
+> It provides a step-by-step explanation and includes a well-structured academic article format with a title, abstract, sections, and a conclusion.
+
 ## 💕 **Explanation**
 
 - **`\documentclass[12pt]{article}`:** Sets the document class to `article` with a font size of 12pt.
