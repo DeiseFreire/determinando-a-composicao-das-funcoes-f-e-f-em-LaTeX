@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:19,832
+\documentclass[12pt,a4paper]{article}
+
+2
+00:00:19,832 --> 00:00:37,632
+\usepackage[utf8]{inputenc}
+
+3
+00:00:37,632 --> 00:00:54,532
+\usepackage[brazil]{babel}
+
+4
+00:00:54,532 --> 00:01:06,399
+\usepackage{amsmath}
+
+5
+00:01:06,399 --> 00:01:17,066
+\begin{document} ... \end{document}
+
+6
+00:01:17,066 --> 00:02:08,432
+\title{Funktionszusammensetzung: $g \circ f\left( x \right)$}
+
+7
+00:02:08,432 --> 00:02:20,799
+\author{Deise Freire}
+
+8
+00:02:20,799 --> 00:02:33,033
+\date{\today}
+
+9
+00:02:33,033 --> 00:02:39,865
+\maketitle
+
+10
+00:02:39,865 --> 00:02:47,099
+\begin{abstract} ... \end{abstract}
+
+11
+00:02:47,099 --> 00:04:23,599
+Dieser Artikel bestimmt die Zusammensetzung von Funktionen $f \circ f\left( \right)$, wobei $f\left( x \right) = 3x - 1$.
+
+12
+00:04:23,599 --> 00:05:29,666
+Der Prozess beinhaltet das Ersetzen des Werts $f\left( x \right)$ innerhalb der Funktion $f\left( x \right)$.
+
+13
+00:05:29,666 --> 00:05:52,399
+\section{Einführung}
+
+14
+00:05:52,399 --> 00:06:56,399
+In diesem Artikel berechnen wir die Zusammensetzung der Funktion $f\left( x \right)$ von $f\left( x \right)$.
+
+15
+00:06:56,399 --> 00:07:53,366
+Die Zusammensetzung von Funktionen, bezeichnet durch $f\circ f\left( x \right)$, wird durch Anwenden der Funktion $f$ auf das Ergebnis der Funktion $f\left( x \right)$ erhalten.
+
+16
+00:07:53,366 --> 00:08:10,666
+\section{Funktionszusammensetzung}
+
+17
+00:08:10,666 --> 00:09:41,399
+Die Funktionen seien $f\left( x \right) = 3x - 1$ und $g\left( x \right) = x^{2} + x - 1$.
+
+18
+00:09:41,399 --> 00:10:24,099
+Bestimmen wir $f \circ f\left( x \right)$:
+
+19
+00:10:24,099 --> 00:10:34,133
+\begin{align*} ... \end{align*}
+
+20
+00:10:34,133 --> 00:11:05,965
+f \circ f\left( x \right)
+
+21
+00:11:05,965 --> 00:11:45,099
+&= f\left( f\left( x \right) \right) \\
+
+22
+00:11:45,099 --> 00:12:22,965
+&= f\left( 3x - 1 \right) \\
+
+23
+00:12:22,965 --> 00:13:07,366
+&= 3 \cdot \left( 3x - 1 \right) - 1 \\
+
+24
+00:13:07,366 --> 00:13:27,366
+&= 9x - 3 - 1 \\
+
+25
+00:13:27,366 --> 00:13:38,765
+&= 9x - 4 \\
+
+26
+00:13:38,765 --> 00:14:04,965
+&= \boxed{9x - 4}
+
+27
+00:14:04,965 --> 00:14:28,099
+\section{Abschluss}
+
+28
+00:14:28,099 --> 00:15:22,699
+Wir kommen zu dem Schluss, dass die Zusammensetzung der Funktionen $f \circ f\left( x \right)$ gleich $9x - 4$ ist.
+
