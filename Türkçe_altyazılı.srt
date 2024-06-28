@@ -104,7 +104,7 @@ f \circ f\left( x \right)
 
 27
 00:14:04,965 --> 00:14:28,099
-\section{Conclusion}
+\section{Sonuç}
 
 28
 00:14:28,099 --> 00:15:22,699
